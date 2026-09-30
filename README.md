@@ -110,3 +110,6 @@ Run:
 
 ```bash
 python quickcart_stockout.py
+
+
+**Made by Syed Abdul Rahman**
