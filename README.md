@@ -110,8 +110,8 @@ Make sure all CSV datasets are in the same folder as the Python file.
 
 Run:
 
-```bash
 python quickcart_stockout.py
+
 ---
 
 **Made by Syed Abdul Rahman**
